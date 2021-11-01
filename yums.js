@@ -15,9 +15,9 @@ class Yums {
                         "str": {
                             "type": "string",
                             "defaultValue": "Hello , World!"
-                        },
+                        }
                     }
-                },
+                }
             ]
         }
     }
