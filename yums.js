@@ -23,8 +23,9 @@ class Yums {
     }
 
     /* add methods for blocks */
-}
-addTwo({str}) {
-    return str + 2
+
+    addTwo({str}) {
+        return str + 2
+    }
 }
 Scratch.extensions.register(new Yums())
